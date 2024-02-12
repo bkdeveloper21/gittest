@@ -18,6 +18,6 @@
  <DataSourceRepository>
   <DataObjects>
  
-<DataObject PhysicalName="testtable" Resident="N" UniqueISNConvState="12" data_source="SQLite Database" id="2" name="testtable" offset="228" length="2160"/>  </DataObjects>
+<DataObject PhysicalName="testtable" Resident="N" UniqueISNConvState="12" data_source="SQLite Database" id="2" name="testtable" offset="228" length="2164"/>  </DataObjects>
  </DataSourceRepository>
- <LastModified val="31088040-174059930"/>  </Application>
+ <LastModified val="31088041-111590993"/>  </Application>
